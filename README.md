@@ -11,3 +11,4 @@ Download and run main.exe to start the game. Then, select a CPU/human opponent, 
 ### WIP Features
 
 Graphical Interface still WIP
+Embed game into personal website
